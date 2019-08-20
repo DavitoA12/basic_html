@@ -1,0 +1,15 @@
+.gallery{
+    display: inline-block;
+    width: 48%;
+}
+
+.gallery > img{
+         width: 48%
+}
+
+.gallery > div {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2em;
+
+}
